@@ -2,6 +2,16 @@
 Changelog for package urdf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Drop CXX standards log4cxx patch
+* Adds and updates urdf ecosystem diagram (`#33 <https://github.com/savioke/urdf/issues/33>`_)
+  - Migrates urdf_diagram.odg and urdf_diagram.png from robot_model pkg
+  to this urdf pkg
+  - Updates urdf_diagram for current repo structures and urls
+  - Adds rendering from diagram in README.md
+* Contributors: Ian McMahon, Leopold Palomo-Avellaneda
+
 1.13.2 (2020-03-06)
 -------------------
 * Windows bringup. (`#31 <https://github.com/ros/urdf/issues/31>`_)
