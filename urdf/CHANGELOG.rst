@@ -2,8 +2,8 @@
 Changelog for package urdf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+100.0.0 (2025-07-22)
+--------------------
 * Drop CXX standards log4cxx patch
 * Adds and updates urdf ecosystem diagram (`#33 <https://github.com/savioke/urdf/issues/33>`_)
   - Migrates urdf_diagram.odg and urdf_diagram.png from robot_model pkg
